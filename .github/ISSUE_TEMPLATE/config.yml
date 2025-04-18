@@ -1,0 +1,22 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Raccoon Community Discussions
+    url: https://github.com/raccoonlang/raccoon/discussions
+    about: Please ask general questions here
+  - name: Raccoon Documentation
+    url: https://raccoonlang.org/docs
+    about: Check out the documentation for answers to common questions
+
+# Configure issue templates
+templates:
+  - name: Bug Report
+    about: Report a bug in Raccoon
+    filename: bug_report.md
+
+  - name: Feature Request
+    about: Suggest an idea for Raccoon
+    filename: feature_request.md
+
+  - name: Trademark Use Permission Request
+    about: Request permission to use the Raccoon language trademark
+    filename: trademark_use_permission.md
