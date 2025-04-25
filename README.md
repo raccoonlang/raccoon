@@ -37,8 +37,8 @@ raccoon run
 
 ## Project Structure and Roadmap
 
-- [Project Structure](docs/development/PROJECT_STRUCTURE.md): Overview of the Raccoon project directory structure
-- [Project Roadmap](docs/development/PROJECT_ROADMAP.md): Our development plans and milestones
+- [Project Structure](docs/development/project-structure.md): Overview of the Raccoon project directory structure
+- [Project Roadmap](docs/development/project-roadmap.md): Our development plans and milestones
 - [Language Specification](docs/language-spec/index.md): The syntax and semantics of the Raccoon language
 
 ## Getting Involved
@@ -59,8 +59,8 @@ If you discover a security vulnerability, please follow our [Security Policy](SE
 ## Development Processes
 
 - [Contributing Guidelines](CONTRIBUTING.md): How to contribute to the Raccoon project
-- [Versioning](docs/development/VERSIONING.md): Our semantic versioning and conventional commits approach
-- [Release Process](docs/development/RELEASE_PROCESS.md): How we manage the release process
+- [Versioning](docs/development/versioning.md): Our semantic versioning and conventional commits approach
+- [Release Process](docs/development/release-process.md): How we manage the release process
 
 ## Code Examples
 
